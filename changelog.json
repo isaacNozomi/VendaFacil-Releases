@@ -1,0 +1,20 @@
+{
+  "versiones": [
+    {
+      "version": "1.2.3",
+      "fecha": "2025-02-15",
+      "cambios": [
+        "✨ Nueva función",
+        "Apartir de ahora mejoras"
+      ]
+    },
+    {
+      "version": "1.2.2",
+      "fecha": "2025-02-01",
+      "cambios": [
+        "➕ Añadido soporte para múltiples pagos en una venta",
+        "🔄 Sincronización automática de tasa de cambio"
+      ]
+    }
+  ]
+}
