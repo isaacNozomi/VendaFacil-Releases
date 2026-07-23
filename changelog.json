@@ -1,6 +1,21 @@
 {
   "versiones": [
     {
+      "version": "1.3.0",
+      "fecha": "2026-07-23",
+      "cambios": [
+        "🔔 Novedades: Sistema de notificaciones con badge y modal para mantenerte al tanto de las mejoras.",
+        "📊 Márgenes por categoría: Define un porcentaje de ganancia específico para cada categoría. Los precios de venta se calculan automáticamente según la categoría asignada.",
+        "🔍 Búsqueda inteligente: Encuentra productos y ventas por nombre, código de barras o número de factura en tiempo real.",
+        "🧹 Gestión de fiados mejorada: Los créditos cancelados ya no aparecen en la lista de fiados. Si un cliente vuelve a pedir fiado, su registro anterior se reactiva automáticamente, manteniendo el historial de abonos.",
+        "🗑️ Limpieza automática: Elimina créditos cancelados con más de 30 días desde la sección de Ajustes, manteniendo la base de datos ligera y organizada.",
+        "⚡ Rendimiento y fluidez: Optimizaciones en el renderizado de listas (virtual scroll) y ajustes dinámicos para una experiencia más rápida y suave.",
+        "❌ Interfaz simplificada: Eliminado el botón de modo lectura para una experiencia más limpia y centrada en lo esencial.",
+        "💾 Persistencia de filtros: Los filtros de inventario (categoría y stock bajo) se mantienen al cambiar de vista, recordando tus preferencias.",
+        "🙏 Gracias por confiar en DualShop. ¡Seguimos mejorando para ofrecerte la mejor experiencia!"
+      ]
+    },
+    {
       "version": "1.2.3",
       "fecha": "2025-02-15",
       "cambios": [
